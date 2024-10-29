@@ -1,8 +1,4 @@
-# Manipal Hackathon 2024 README Template
-
-**Team Name:** `Sigmoid`
-
-**Problem Statement:** `Virtual Try-On and Intelligent Wardrobe Management Solution`
+`Virtual Try-On and Intelligent Wardrobe Management Solution`
 
 ## 📜 Introduction
 
